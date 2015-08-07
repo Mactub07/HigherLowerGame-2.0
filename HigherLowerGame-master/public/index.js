@@ -38,6 +38,7 @@ $(function() {
     var questionsSelected = [];
     var num1;
     var num2;
+
     //var customWindow = window.open('', '_blank', '');
 
     /*код------------------------------------------------------------------------------------*/
